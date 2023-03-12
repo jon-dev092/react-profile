@@ -5,6 +5,7 @@ import Contact from './pages/Contact';
 import Projects from './pages/Projects';
 import Resume from './pages/Resume';
 import NotFound from './pages/NotFound';
+import Footer from './components/Footer';
 
 
 function App() {
@@ -30,7 +31,8 @@ function App() {
               <NotFound /> 
             </Route>
           </Switch>
-        </div>    
+        </div>
+        <Footer />    
       </div>
     </Router>
   );

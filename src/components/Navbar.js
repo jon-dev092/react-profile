@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
- 
+
+
+// Serves as a header for all pages 
 const Navbar = () => {
     return ( 
         <nav className="navbar">

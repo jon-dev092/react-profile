@@ -20,13 +20,23 @@ code {
   font-family: "Quicksand";
   color: #333;
 }
-.navbar, .footer {
+.navbar {
   padding: 20px;
   display: flex;
   align-items: center;
   max-width: 600px;
   margin: 0 auto;
-  border-bottom: 1px solid #f2f2f2;
+  border-bottom: 1px solid #000000;
+}
+
+.footer {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-top: 1px solid #000000;
 }
 .navbar h1, .footer {
   color: #f1356d;
@@ -78,3 +88,4 @@ code {
   border-radius: 8px;
   cursor: pointer;
 }
+

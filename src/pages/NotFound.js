@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 
+
+// Redirects user to homepage if incorrect route is put
 const NotFound = () => {
     return ( 
         <div className="not-found">

@@ -1,10 +1,64 @@
+import { React } from "react";
+import '../styles/projects.css'
+import workout2 from '../img/workout2.jpg'
+import chart from '../img/chart.jpg'
+import noteTaker from '../img/note-taker.png'
+import eCommerce from '../img/ecommerce.jpg'
+import employeeTracker from '../img/employee-tracker.jpg'
+
+
 const Projects = () => {
-    return ( 
-        <div>
-            <h2>Projects</h2>
-            <p>Here are my projects</p>
+    return (
+        <div className="projects">
+            <h1>Projects</h1>
+            <div>
+                <div>
+                    <img src={workout2} alt="Couple doing a high intensity workout with ropes at the gym" />
+                    <h2>Grynd-Fitness App</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quaerat assumenda veniam nemo amet labore, enim et obcaecati eligendi excepturi commodi in dolore molestias error repellendus expedita voluptatem. Explicabo, harum quidem.</p>
+                    <a href="https://github.com/jon-dev092/grynd-app">Github Repo</a>
+                    <br />
+                    <a href="https://jon-dev092.github.io/grynd-app/">Live Application</a>
+                </div>
+                <br />
+                <br />
+                <div>
+                    <img src={chart} alt="chart displaying finance review and graphs" />
+                    <h2>Better have my money</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam dolor corporis soluta quos excepturi dicta, ea dignissimos in architecto reiciendis accusamus neque libero fugit autem nesciunt dolore est natus molestiae similique, veritatis officiis? Animi officiis delectus, rerum perspiciatis facilis porro quisquam ipsa obcaecati non similique consequatur blanditiis itaque reiciendis natus.</p>
+                    <a href="https://github.com/marissa-a-darr/project2-collab">Github Repo</a>
+                    <br />
+                    <a href="https://evening-beyond-91031.herokuapp.com/">Live Application</a>
+                </div>
+                <br />
+                <br />
+                <div>
+                    <img src={eCommerce} alt=" individual who seems to be online shopping with a smartphone on the go" />
+                    <h2>E-Commerce Backend App</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi, illum. Quidem expedita deleniti consequuntur, reiciendis impedit, minus recusandae quia repellat hic natus excepturi, nemo beatae. Officia quisquam quidem iste doloremque quis dicta eos in dolore aperiam! Tenetur, dolorem consectetur repellendus modi beatae ducimus harum voluptate quidem aperiam quas, dolores fugiat.</p>
+                    <a href="https://github.com/jon-dev092/E-Commerce-Challenge">Github Repo</a>
+                </div>
+                <br />
+                <br />
+                <div>
+                    <img src={noteTaker} alt="screen shot of deployed note taker tool application" />
+                    <h2>Note Taker Tool</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae adipisci quis ipsam dignissimos nesciunt saepe, cupiditate sed impedit dolores fugit illo, ipsa nobis? Ducimus quo ad provident nisi excepturi ex harum iste neque. Adipisci, optio suscipit hic id corrupti ratione eveniet sequi aliquid pariatur? Autem adipisci numquam ad omnis eius.</p>
+                    <a href="https://github.com/jon-dev092/note-taker-tool">Github Repo</a>
+                    <br />
+                    <a href="https://note-taker-tool.herokuapp.com/https://note-taker-tool.herokuapp.com/">Live Application</a>
+                </div>
+                <br />
+                <br />
+                <div>
+                    <img src={employeeTracker} alt="two co-workers focused on a computer screen displaying charts" />
+                    <h2>Employee Tracker Backend App</h2>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Culpa dolor, eos reprehenderit ea iusto tenetur nostrum libero? Assumenda fugiat nostrum quidem officia autem dignissimos obcaecati illum magnam, earum nemo amet corrupti iure reprehenderit. Nesciunt porro dolor consequatur eveniet sed reprehenderit cum provident, perspiciatis illo iste repudiandae vitae labore, molestiae dolores.</p>
+                    <a href="https://github.com/jon-dev092/empolyeeTracker">Github Repo</a>
+                </div>
+            </div>
         </div>
-     );
+    );
 }
- 
+
 export default Projects;

@@ -1,7 +1,9 @@
 const Footer = () => {
     return ( 
         <div className="footer">
-            <h4>My footer here</h4>
+            <a href=""><img src="" alt="" /></a>
+            <a href=""><img src="" alt="" /></a>
+            <a href=""><img src="" alt="" /></a>
         </div>
      );
 }

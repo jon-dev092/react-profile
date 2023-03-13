@@ -28,9 +28,6 @@ function App() {
             <Route path='/resume'>
               <Resume /> 
             </Route>
-            <Route path='*'>
-              <NotFound /> 
-            </Route>
           </Switch>
         </div>
         <Footer />    

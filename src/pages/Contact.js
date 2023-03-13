@@ -14,7 +14,7 @@ export const Contact = () => {
     emailjs.sendForm('service_5bsda6l', 'template_85cczge', form.current, 'vN8vOITrxzssD3rqP')
       .then((result) => {
           console.log(result.text);
-          historyRelocate.push('/')
+          historyRelocate.push('/react-profile')
       }, (error) => {
           console.log(error.text);
       });

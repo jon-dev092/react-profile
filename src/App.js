@@ -5,7 +5,6 @@ import AboutMe from './pages/AboutMe';
 import Contact from './pages/Contact';
 import Projects from './pages/Projects';
 import Resume from './pages/Resume';
-import NotFound from './pages/NotFound';
 
 // Renders order of pages and theyre content to be posted in my main index.js 
 // Uses Switch from react to set components to be viewed at all times and pages apart 

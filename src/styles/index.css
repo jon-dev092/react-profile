@@ -101,6 +101,12 @@
   text-align: center;
 }
 
+.resume img {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #000000;
+}
+
 /* footer styles */
 .logo {
   width: 70px;

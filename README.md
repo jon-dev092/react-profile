@@ -20,7 +20,7 @@ Utalizes a responsive and minimalistic design thats easy use and navigate with R
  
 
 ## Usage:
-![react-portfolio]()
+![react-portfolio](./src/img/screenshot.png)
 - Navigate the navbar on top to view different pages in the application.
 - View a descriptive about me, notible projects, and my resume.
 - Submit a form that contacts me via email if need be. 

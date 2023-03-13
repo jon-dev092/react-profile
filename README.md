@@ -32,4 +32,4 @@ Utalizes a responsive and minimalistic design thats easy use and navigate with R
 
 ## Links:
 [Github Repo](https://github.com/jon-dev092/react-profile)                                                                                                                                                
-[Deployed Page]()
+[Deployed Page](https://jon-dev092.github.io/react-profile)

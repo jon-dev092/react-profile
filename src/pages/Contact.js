@@ -2,6 +2,8 @@ import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import { useHistory } from "react-router-dom";
 
+// Contact page where a form can be filled in to send me an email
+// EmailJS template used from website to handle event listner
 export const Contact = () => {
   const form = useRef();
   const historyRelocate = useHistory();

@@ -6,7 +6,7 @@ import noteTaker from '../img/note-taker.png'
 import eCommerce from '../img/ecommerce.jpg'
 import employeeTracker from '../img/employee-tracker.jpg'
 
-
+// list of projects with images, descriptions and links to visable applications
 const Projects = () => {
     return (
         <div className="projects">

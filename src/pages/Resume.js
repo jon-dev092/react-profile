@@ -1,6 +1,8 @@
+
+// Resume for employers to review
 const Resume = () => {
     return ( 
-        <div>
+        <div className="resume">
             <h2>Resume</h2>
             <p>Here is my resume</p>
         </div>

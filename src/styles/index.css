@@ -91,7 +91,13 @@
   cursor: pointer;
 }
 
+/* projects styles */
 .projects {
+  text-align: center;
+}
+
+/* resume styles */
+.resume {
   text-align: center;
 }
 

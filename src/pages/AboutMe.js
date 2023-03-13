@@ -1,5 +1,6 @@
 import ProfilePic from "../img/IMG_2246.JPG"
 
+// home page where my about me is displayed
 const AboutMe = () => {
     return ( 
         <div className="aboutme">

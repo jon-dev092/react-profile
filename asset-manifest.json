@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bc7c9d1c.chunk.css",
+    "main.js": "/static/js/main.c84d0ed3.chunk.js",
+    "main.js.map": "/static/js/main.c84d0ed3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a688dd8e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a688dd8e.js.map",
+    "static/js/2.d21b163e.chunk.js": "/static/js/2.d21b163e.chunk.js",
+    "static/js/2.d21b163e.chunk.js.map": "/static/js/2.d21b163e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bc7c9d1c.chunk.css.map": "/static/css/main.bc7c9d1c.chunk.css.map",
+    "static/js/2.d21b163e.chunk.js.LICENSE.txt": "/static/js/2.d21b163e.chunk.js.LICENSE.txt",
+    "static/media/IMG_2246.8847189f.JPG": "/static/media/IMG_2246.8847189f.JPG",
+    "static/media/chart.c70f41c4.jpg": "/static/media/chart.c70f41c4.jpg",
+    "static/media/ecommerce.91b961d3.jpg": "/static/media/ecommerce.91b961d3.jpg",
+    "static/media/employee-tracker.de479f5a.jpg": "/static/media/employee-tracker.de479f5a.jpg",
+    "static/media/note-taker.8d8e5eea.png": "/static/media/note-taker.8d8e5eea.png",
+    "static/media/resume.14cbefe2.png": "/static/media/resume.14cbefe2.png",
+    "static/media/workout2.5a075b60.jpg": "/static/media/workout2.5a075b60.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a688dd8e.js",
+    "static/js/2.d21b163e.chunk.js",
+    "static/css/main.bc7c9d1c.chunk.css",
+    "static/js/main.c84d0ed3.chunk.js"
+  ]
+}

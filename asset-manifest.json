@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-profile/static/css/main.bc7c9d1c.chunk.css",
-    "main.js": "/react-profile/static/js/main.ec1a295f.chunk.js",
-    "main.js.map": "/react-profile/static/js/main.ec1a295f.chunk.js.map",
+    "main.js": "/react-profile/static/js/main.43b10919.chunk.js",
+    "main.js.map": "/react-profile/static/js/main.43b10919.chunk.js.map",
     "runtime-main.js": "/react-profile/static/js/runtime-main.3396c456.js",
     "runtime-main.js.map": "/react-profile/static/js/runtime-main.3396c456.js.map",
     "static/js/2.d21b163e.chunk.js": "/react-profile/static/js/2.d21b163e.chunk.js",
@@ -11,6 +11,7 @@
     "static/css/main.bc7c9d1c.chunk.css.map": "/react-profile/static/css/main.bc7c9d1c.chunk.css.map",
     "static/js/2.d21b163e.chunk.js.LICENSE.txt": "/react-profile/static/js/2.d21b163e.chunk.js.LICENSE.txt",
     "static/media/IMG_2246.8847189f.JPG": "/react-profile/static/media/IMG_2246.8847189f.JPG",
+    "static/media/NoPMS-screenshot.b860b21c.png": "/react-profile/static/media/NoPMS-screenshot.b860b21c.png",
     "static/media/chart.c70f41c4.jpg": "/react-profile/static/media/chart.c70f41c4.jpg",
     "static/media/ecommerce.91b961d3.jpg": "/react-profile/static/media/ecommerce.91b961d3.jpg",
     "static/media/employee-tracker.de479f5a.jpg": "/react-profile/static/media/employee-tracker.de479f5a.jpg",
@@ -22,6 +23,6 @@
     "static/js/runtime-main.3396c456.js",
     "static/js/2.d21b163e.chunk.js",
     "static/css/main.bc7c9d1c.chunk.css",
-    "static/js/main.ec1a295f.chunk.js"
+    "static/js/main.43b10919.chunk.js"
   ]
 }

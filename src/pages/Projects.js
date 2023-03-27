@@ -5,6 +5,7 @@ import chart from '../img/chart.jpg'
 import noteTaker from '../img/note-taker.png'
 import eCommerce from '../img/ecommerce.jpg'
 import employeeTracker from '../img/employee-tracker.jpg'
+import noPms from '../img/NoPMS-screenshot.png'
 
 // list of projects with images, descriptions and links to visable applications
 const Projects = () => {
@@ -30,6 +31,14 @@ const Projects = () => {
                     <br />
                     <a href="https://evening-beyond-91031.herokuapp.com/">Live Application</a>
                 </div>
+                <br />
+                <br />
+                <img src={noPms} alt="NoPMS project logo" />
+                    <h2>NoPMS Project Management System</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam dolor corporis soluta quos excepturi dicta, ea dignissimos in architecto reiciendis accusamus neque libero fugit autem nesciunt dolore est natus molestiae similique, veritatis officiis? Animi officiis delectus, rerum perspiciatis facilis porro quisquam ipsa obcaecati non similique consequatur blanditiis itaque reiciendis natus.</p>
+                    <a href="https://github.com/Ale-Miret/NoPMS">Github Repo</a>
+                    <br />
+                    <a href="https://calm-waters-92102.herokuapp.com/">Live Application</a>
                 <br />
                 <br />
                 <div>

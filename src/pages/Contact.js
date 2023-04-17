@@ -1,12 +1,12 @@
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
-import { useHistory } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 // Contact page where a form can be filled in to send me an email
 // EmailJS template used from website to handle event listner
 export const Contact = () => {
   const form = useRef();
-  const historyRelocate = useHistory();
+  const navRelocate = useNavigate();
 
   const sendEmail = (e) => {
     e.preventDefault();
@@ -14,7 +14,7 @@ export const Contact = () => {
     emailjs.sendForm('service_5bsda6l', 'template_85cczge', form.current, 'vN8vOITrxzssD3rqP')
       .then((result) => {
           console.log(result.text);
-          historyRelocate.push('/react-profile')
+          navRelocate.push('/react-profile')
       }, (error) => {
           console.log(error.text);
       });
